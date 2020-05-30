@@ -59,3 +59,9 @@ Após as instalações, para começar a usar basta clonar esse repositório e di
 * Fazendo o reconhecimento em uma imagem com 80 pessoas.
 
 <img width="594" alt="16" src="imagens/detectados/80.png">
+
+# Referências
+
+* <a href="https://www.youtube.com/channel/UCEn6kONg6EC_Ylh0RlInsMw">Canal YouTube - Universo Discreto</a>
+* <a href="https://universodiscreto.com/">Blog - Universo Discreto</a>
+* <a href="https://www.pyimagesearch.com/">PyImage</a>
