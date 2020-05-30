@@ -56,6 +56,6 @@ Após as instalações, para começar a usar basta clonar esse repositório e di
 
 <br>
 
-* Fazendo o reconhecimento em uma imagem com 16 pessoas.
+* Fazendo o reconhecimento em uma imagem com 80 pessoas.
 
 <img width="594" alt="16" src="imagens/detectados/80.png">
