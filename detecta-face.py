@@ -1,4 +1,4 @@
-# Projeto Reconhecimento de Face - Python, OpenCV e DLib
+# Projeto Detecção de Face - Python, OpenCV e DLib
 # Autor: Iuri Lopes Almeida
 # Perfil GitHub: https://github.com/Iuri-Almeida
 # Data: 30/05/2020
